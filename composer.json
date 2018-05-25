@@ -1,0 +1,18 @@
+{
+    "name": "project/blog",
+    "description": "blog package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gineign, LLC",
+            "email": "info@gineign.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Project\\Blog\\": "src"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
